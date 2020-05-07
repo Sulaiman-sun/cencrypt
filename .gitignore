@@ -1,0 +1,7 @@
+*.pyc
+*.so
+venv/*
+cmake-build-debug/*
+build/*
+.idea/*
+*.un~
